@@ -1,9 +1,4 @@
----
-title: Outfit Styling with Neural Networks
-date: 2025-04-15 21:57:07
-tags:
----
-
+# Outfit Styling with Transformers
 
 ## Project Motivation 
 
